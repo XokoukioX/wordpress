@@ -4,6 +4,7 @@
   "description": "",
   "license": "MIT",
   "dependencies": {
+    "@vercel/speed-insights": "^1.0.9",
     "serverlesswp": "^0.1.2"
   }
 }
