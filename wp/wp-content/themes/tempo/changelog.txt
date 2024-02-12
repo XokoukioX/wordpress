@@ -1,0 +1,164 @@
+version 0.0.55 ( October 16, 2018 )
+-------------------------------------------------------
+- Cronus child theme sync features
+
+version 0.0.54 ( October 15, 2018 )
+-------------------------------------------------------
+- Small design improvements
+
+version 0.0.53 ( July 26, 2018 )
+-------------------------------------------------------
+- Security Improvements / escaped data base on Theme Sniffer Plugin
+
+version 0.0.52 ( July 17, 2018 )
+-------------------------------------------------------
+- Breadcrumps Counter Improvements
+
+version 0.0.51 ( June 6, 2018 )
+-------------------------------------------------------
+- Small Code Improvements
+
+version 0.0.50 ( May 10, 2018 )
+-------------------------------------------------------
+- Small UX/UI Improvements
+- Small design Improvements
+
+version 0.0.49 ( April 18, 2018 )
+-------------------------------------------------------
+- Customize Improvements
+- Theme FAQ Improvements
+
+version 0.0.48 ( March 26, 2018 )
+-------------------------------------------------------
+- Code Quality Improvements
+
+version 0.0.47 ( February 26, 2018 )
+-------------------------------------------------------
+- Update Fontello Icon fonts
+- Footer Social Improvements
+- Add footer Social items: GitLab and Reddit
+
+version 0.0.46 ( February 19, 2018 )
+-------------------------------------------------------
+- Improvements for Gallery Shortcode
+
+version 0.0.45 ( February 13, 2018 )
+-------------------------------------------------------
+- fix Image Alignment Issue
+
+Version 0.0.44 ( February 2, 2018 )
+________________________________________
+
+- Added Option to enable / disable Collapsing Submenu for mobile devices
+
+
+Version 0.0.43 ( September 26, 2017 )
+________________________________________
+
+- Small Design and Code Improvements
+- Sync between Zeon Plugin and Gardener Child Theme
+
+Version 0.0.42 ( August 31, 2017 )
+________________________________________
+
+- Spellcheck Improvements
+- Small Design and Code Improvements
+- Small UI/UX Improvements
+
+Version 0.0.41 ( August 2, 2017 )
+________________________________________
+
+- Improvements for Header IMAGE size ( srcset )
+- Improvements for Responsive Post and Page Featured Images size using <PICTURE>, <SOURCE> and srcset="..." attribute
+- Improvements for Responsive Gallery Images size using <PICTURE>, <SOURCE> and srcset="..." attribute
+- Fixed display mode for input type="image"
+- Small UI/UX improvements
+
+Version 0.0.39 ( May 31, 2017 )
+________________________________________
+
+- Improvements for Header IMAGE size
+- Responsive Gallery Images using srcset="..." attribute
+- Display Hierarchical Categories ( post meta )
+
+Version 0.0.38 ( May 17, 2017 )
+________________________________________
+
+- Improvements for Responsive Header Image using srcset="..." attribute
+- Improvements for Responsive Featured Image using srcset="..." attribute
+- fix Headline as Text if Headline URL is null
+- fix Description as Text if Description URL is null
+
+Version 0.0.37 ( May 11, 2017 )
+________________________________________
+
+- Responsive Header Image using srcset="..." attribute
+- Responsive Header Image Scaling and Spacing Improvements
+
+Version 0.0.36 ( April 5, 2017 )
+________________________________________
+
+- small css fix for <pre>
+
+Version 0.0.35 ( April 5, 2017 )
+________________________________________
+
+- auto hyphens settings ( general, header, headings and content )
+
+Version 0.0.34 ( March 23, 2017 )
+________________________________________
+
+- multiple responsive improvements
+- added small php improvements
+- added new option ( Visible / Invisible Menu )
+- added new option ( Show / Hide Breadcrumbs Navigation )
+
+Version 0.0.31 ( February 4, 2017 )
+________________________________________
+
+- added small css improvements
+- added small php improvements
+
+Version 0.0.30 ( January 27, 2017 )
+________________________________________
+
+- added small admin css improvements
+- added small css improvements
+- added small php improvements
+
+Version 0.0.28 ( December 27, 2016 )
+________________________________________
+
+- added small admin css improvements
+- added small header css improvements
+- added small php improvements
+
+Version 0.0.27 ( December 20, 2016 )
+________________________________________
+
+- added small improvements for Height of the Header Elements
+- added small css improvements
+- added small php improvements
+
+Version 0.0.26 ( December 15, 2016 )
+________________________________________
+
+- small fix on read mods/options functions
+- small css fix for Header Logo and Header Buttons
+- small css fix for Typography
+- small css fix for Buttons and Forms
+
+Version 0.0.25 ( December 8, 2016 )
+________________________________________
+
+- added default Header Image
+- small fix for the Header Partial Template
+- small css fix for Typography
+- added some additional classes for top and bottom meta on single and blog templates
+
+
+Version 0.0.24 ( December 4, 2016 )
+________________________________________
+
+- small css fix for the Site Identity
+- small css fix for the Comments Form ( space between the delimiter and the content )

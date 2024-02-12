@@ -1,0 +1,1357 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tempo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-16 20:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: ../tempo/cfgs/main.php:168
+#, php-format
+msgid " Powered by %1$s. Designed by %2$s."
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/welcome.php:3
+#, php-format
+msgid "\"%1$s\" on WordPress.org"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.breadcrumbs.php:52
+msgid "\"Home\" link description"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.breadcrumbs.php:43
+msgid "\"Home\" text"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/support.php:4
+#, php-format
+msgid "%1$s - %2$s bug Report"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/support.php:3
+#, php-format
+msgid "%1$s - %2$s Support"
+msgstr ""
+
+#: ../tempo/lib/html/tempo.page.class.php:117
+#: ../tempo/lib/html/tempo.page.class.php:121
+#, php-format
+msgid "%1$s - limited version ( %2$s )"
+msgstr ""
+
+#: ../tempo/lib/html/tempo.page.class.php:103
+#: ../tempo/lib/html/tempo.page.class.php:108
+#, php-format
+msgid "%1$s - premium Solution"
+msgstr ""
+
+#: ../tempo/lib/tempo.scripts.class.php:179
+#: ../tempo/lib/html/tempo.page.class.php:72
+#: ../tempo/cfgs/pages/appearance/faq.php:67
+#: ../tempo/templates/admin/appearance/faq/premium.php:1
+#: ../tempo/templates/admin/appearance/faq/premium.php:2
+#: ../tempo/templates/admin/appearance/faq/premium.php:17
+#: ../tempo/templates/admin/appearance/faq/premium.php:277
+#, php-format
+msgid "%1$s - Upgrade %2$s to Premium"
+msgstr ""
+
+#: ../tempo/lib/tempo.breadcrumbs.class.php:95
+#, php-format
+msgid "%1$s Articles"
+msgstr ""
+
+#: ../tempo/templates/comments/pagination.php:4
+#: ../tempo/templates/loop/pagination.php:3
+#, php-format
+msgid "%1$s Prev"
+msgstr ""
+
+#: ../tempo/templates/loop/pagination-next-prev.php:5
+#, php-format
+msgid "%1$s Previous"
+msgstr ""
+
+#: ../tempo/lib/tempo.breadcrumbs.class.php:101
+#, php-format
+msgid "%1$s Results"
+msgstr ""
+
+#: ../tempo/lib/methods.php:680
+msgid "- Choose from List -"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:231
+#: ../tempo/templates/admin/appearance/faq/premium.php:237
+#: ../tempo/templates/admin/appearance/faq/premium.php:243
+#: ../tempo/templates/admin/appearance/faq/premium.php:249
+msgid "1 - 5 ( you can customize number of columns )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:248
+msgid "4 columns"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:267
+msgid "4 Premium Solutions"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:265
+msgid "Access"
+msgstr ""
+
+#: ../tempo/cfgs/pages/appearance/faq.php:67
+#, php-format
+msgid ""
+"Activate premium features and get extended core functionality without the "
+"risk of loosing any data or settings %1$s with our %2$s that upgrades our "
+"Tempo WordPress theme."
+msgstr ""
+
+#: ../tempo/comments.php:85
+msgid "Add your comment here..."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.additional.php:9
+#: ../tempo/templates/admin/appearance/faq/customizer.php:21
+msgid "Additional"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/customizer.php:37
+msgid "Additional CSS"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/translate.php:8
+#, php-format
+msgid ""
+"After you will unzip the archive %1$s you must have folder %2$s with theme "
+"files. Go to %3$s here you can see file %3$s ( Portable Object Template )."
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/customizer.php:40
+msgid ""
+"All you have to do is play with them and view live changes. Try and you will "
+"discover how easy it is to customize your own style."
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/welcome.php:3
+#, php-format
+msgid "Also please help us to increase the theme rank: %1$s"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:72
+#: ../tempo/templates/admin/appearance/faq/customizer.php:16
+msgid "Appearance"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/customizer.php:2
+msgid "Appearance &rsaquo; Customize"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/custom-css.php:3
+msgid "Appearance &rsaquo; Customize &rsaquo; Additional CSS."
+msgstr ""
+
+#: ../tempo/templates/breadcrumbs/archive.php:77
+msgid "Archives"
+msgstr ""
+
+#: ../tempo/lib/tempo.comments.class.php:37
+#: ../tempo/templates/breadcrumbs/author.php:47
+msgid "Author"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:101
+msgid "Background Color"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/background-image.php:9
+#: ../tempo/templates/admin/appearance/faq/customizer.php:8
+msgid "Background Image"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:254
+msgid "Basic"
+msgstr ""
+
+#: ../tempo/comments.php:80
+msgid "Be first! Add your comment here..."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:80
+msgid "Behance"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.blog.php:9
+#: ../tempo/templates/admin/appearance/faq/customizer.php:23
+msgid "Blog"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:235
+msgid "Blog custom Header Sidebar"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.breadcrumbs.php:9
+#: ../tempo/templates/admin/appearance/faq/customizer.php:22
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.breadcrumbs.php:53
+msgid "breadcrumbs \"Home\" link description."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.breadcrumbs.php:44
+msgid "breadcrumbs \"Home\" link text."
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/support.php:4
+msgid "Bug Report"
+msgstr ""
+
+#: ../tempo/comments.php:109
+#, php-format
+msgctxt "Button after comment(s) form"
+msgid "View Comment (%1$s) ..."
+msgid_plural "View Comments (%1$s) ..."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:118
+msgid ""
+"by default the mask is a dark transparent foil over the header background "
+"image."
+msgstr ""
+
+#: ../tempo/templates/breadcrumbs/category.php:60
+msgid "Category Archives"
+msgstr ""
+
+#: ../tempo/lib/html/tempo.input.class.php:316
+msgid "Choose File"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.menu.php:23
+msgid "Collapse Submenu"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/colors.php:9
+#: ../tempo/templates/admin/appearance/faq/customizer.php:7
+msgid "Colors"
+msgstr ""
+
+#: ../tempo/lib/html/tempo.page.class.php:61
+msgid "Contact US"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.additional.php:50
+msgid "Content Auto Hyphens"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:56
+msgid "Copyright"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:64
+#, php-format
+msgid "Copyright &copy; %1$s."
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/customizer.php:30
+msgid "Copyright ( partial )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:217
+msgid "Copyright full Control"
+msgstr ""
+
+#: ../tempo/cfgs/theme-url.php:34
+msgid ""
+"Cronus is a free WordPress child Theme that extends the Tempo free WordPress "
+"theme."
+msgstr ""
+
+#: ../tempo/lib/tempo.scripts.class.php:176
+#, php-format
+msgid ""
+"Currently is active free version. You can decide whether to create your site "
+"using limited version or %1$s"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:67
+msgid "Custom breadcrumbs settings"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:49
+msgid "Custom Colors"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:14
+#: ../tempo/cfgs/pages/customize/tempo.others.php:91
+msgid "Custom CSS"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/customizer.php:31
+msgid "Custom CSS ( with support for: IE, IE 10, IE 9 and IE 8 )"
+msgstr ""
+
+#: ../tempo/cfgs/pages/appearance/faq.php:41
+msgid "Custom CSS and Customizations"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:19
+msgid "Custom CSS IE"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:33
+msgid "Custom CSS IE 10"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:26
+msgid "Custom CSS IE 11"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:47
+msgid "Custom CSS IE 8"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:40
+msgid "Custom CSS IE 9)"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:79
+msgid "Custom CSS Options ( special support: IE, IE8, IE9, IE10, IE11 )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:37
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:61
+msgid "Custom Header"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:97
+msgid "Custom Header for each Page ( one click setup )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:91
+msgid "Custom Header for each Post ( one click setup )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:121
+msgid "Custom Header type Audio ( one click setup )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:133
+msgid "Custom Header type Google Map ( one click setup )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:109
+msgid "Custom Header type Hero Image ( one click setup )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:115
+msgid "Custom Header type Portfolio ( one click setup )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:103
+msgid "Custom Header type Sample Image ( one click setup )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:127
+msgid "Custom Header type Video ( one click setup )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:139
+msgid "Custom Logo ( icon )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:43
+msgid "Custom Logo ( sample )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:181
+msgid "Custom Page Template"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:205
+msgid "Custom page template filter posts by categories"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:199
+msgid "Custom page template filter posts by tags"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:151
+msgid "Custom Sidebars builder"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:163
+msgid "Custom Sidebars for each Page"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:157
+msgid "Custom Sidebars for each Post"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:259
+msgid "Customizations"
+msgstr ""
+
+#: ../tempo/cfgs/pages/appearance/faq.php:55
+msgid "Customize the Theme"
+msgstr ""
+
+#: ../tempo/templates/breadcrumbs/archive.php:59
+msgid "Daily Archives"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:158
+#: ../tempo/templates/admin/appearance/faq/customizer.php:18
+msgid "Description"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:178
+msgid "Description Color"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:171
+msgid "Description Text"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/welcome.php:2
+msgid "Direct Contact"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.blog.php:23
+#: ../tempo/cfgs/pages/customize/tempo.post.php:28
+msgid "Display Author"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.post.php:55
+msgid "Display Author Details"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.breadcrumbs.php:14
+msgid "Display Breadcrumbs"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.blog.php:14
+#: ../tempo/cfgs/pages/customize/tempo.post.php:19
+msgid "Display Categories"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.blog.php:32
+#: ../tempo/cfgs/pages/customize/tempo.post.php:37
+msgid "Display Date / Time"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:163
+msgid "Display Description"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:29
+msgid "Display Header on Blog Page"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:21
+msgid "Display Header on Front Page"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:54
+#: ../tempo/cfgs/pages/customize/tempo.header.php:62
+msgid "Display Header on Single Page"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:46
+msgid "Display Header on Single Post"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:37
+msgid "Display Header on Templates"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:133
+msgid "Display Headline"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.breadcrumbs.php:22
+msgid "Display Navigation"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:200
+msgid "Display Rss"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.post.php:46
+msgid "Display Tags"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:25
+msgid "Documentation"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:110
+msgid "Dribbble"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:86
+msgid "Dropbox"
+msgstr ""
+
+#: ../tempo/comments.php:72
+msgid "Email (Required)"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:38
+msgid ""
+"enabale / disable header on: Archives, Categories, Tags, Author, 404 and "
+"Search Results."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.post.php:56
+msgid "enable / disable Author Details for single post ( bottom author box )."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.blog.php:24
+msgid "enable / disable Author for blog posts."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.post.php:29
+msgid "enable / disable Author for single post."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.additional.php:24
+msgid ""
+"enable / disable Auto Hyphens for all website content. This option can be "
+"overwritten by options below."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.additional.php:33
+msgid "enable / disable Auto Hyphens for Header Text"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.additional.php:42
+msgid "enable / disable Auto Hyphens for Headings"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.additional.php:51
+msgid "enable / disable Auto Hyphens for Post content Text"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.blog.php:15
+msgid "enable / disable Categories for blog posts."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.post.php:20
+msgid "enable / disable Categories for single post."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.blog.php:33
+msgid "enable / disable Date or / and Time for blog posts."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.post.php:38
+msgid "enable / disable Date or / and Time for single post."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.menu.php:15
+msgid "enable / disable menu visibility"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.menu.php:24
+msgid "enable / disable submenu collapsing for mobile devices"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.post.php:47
+msgid "enable / disable Tags for single post ( bottom tags )."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.additional.php:15
+msgid "enable / disable Tempo Gallery Style."
+msgstr ""
+
+#: ../tempo/templates/breadcrumbs/404.php:59
+#, php-format
+msgid "Error %1$s"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:38
+msgid "Evernote"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:98
+msgid "Facebook"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:9
+msgid "Features"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:182
+msgid "Flattr"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:116
+msgid "Flickr"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:211
+msgid "Footer custom Menu"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:247
+msgid "Footer dark Section custom Sidebar"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:241
+msgid "Footer light Section custom Sidebar"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:73
+msgid "Footer social Items"
+msgstr ""
+
+#: ../tempo/cfgs/pages/appearance/faq.php:17
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:61
+msgid ""
+"From the theme options you can change only the website content copyright."
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:229
+msgid "Front Page custom Header Sidebar"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:225
+msgid "FULL ( ~ 24 Custom Controlls )"
+msgstr ""
+
+#: ../tempo/lib/tempo.scripts.class.php:178
+#: ../tempo/templates/admin/appearance/faq/premium.php:279
+msgid "full compatible with current version"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.additional.php:14
+msgid "Gallery Style [ Tempo ]"
+msgstr ""
+
+#: ../tempo/cfgs/theme-url.php:48
+msgid ""
+"Gardener is a free WordPress child Theme that extends the Tempo free "
+"WordPress theme."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:16
+#: ../tempo/cfgs/pages/customize/tempo.post.php:14
+#: ../tempo/templates/admin/appearance/faq/customizer.php:15
+msgid "General"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:20
+#: ../tempo/cfgs/pages/customize/tempo.social.php:26
+msgid "Github"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.breadcrumbs.php:57
+msgid "go home"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:140
+msgid "Google Circles"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:134
+msgid "Google Plus"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:187
+msgid "Grid Blog View ( + custom page template )"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:89
+msgid "Header Bottom Space"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:11
+#: ../tempo/templates/admin/appearance/faq/customizer.php:12
+msgid "Header Elements"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/header-image.php:9
+#: ../tempo/templates/admin/appearance/faq/customizer.php:10
+msgid "Header Image"
+msgstr ""
+
+#: ../tempo/cfgs/menus/header.php:8
+msgid "Header Menu"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.additional.php:32
+msgid "Header text Auto Hyphens"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:77
+msgid "Header Top Space"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.additional.php:41
+msgid "Headings Auto Hyphens"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:128
+#: ../tempo/templates/admin/appearance/faq/customizer.php:17
+msgid "Headline"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:148
+msgid "Headline Color"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:141
+msgid "Headline Text"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/translate.php:4
+msgid "here"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/customizer.php:3
+msgid "Here you can see:"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.breadcrumbs.php:48
+msgid "Home"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/customizer.php:36
+msgid "Homepage Settings"
+msgstr ""
+
+#: ../tempo/cfgs/pages/appearance/faq.php:72
+#, php-format
+msgid ""
+"If you have questions about the theme or the theme features then you are "
+"welcome to use our forum.%1$s Also if you found bugs please provide us a "
+"feedback."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/site-identity.php:14
+msgid "Image Logo"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.breadcrumbs.php:31
+msgid "inner top and bottom space allow you to change breadcrumbs height."
+msgstr ""
+
+#: ../tempo/lib/html/tempo.field.class.php:81
+#: ../tempo/lib/html/tempo.field.class.php:126
+#: ../tempo/lib/html/tempo.field.class.php:167
+msgid "Input not found"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:14
+msgid "Instagram"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/site-identity.php:15
+msgid ""
+"Is recommended to use an image with 235px maxim width and 70px maxim height."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:128
+msgid "Lastfm"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:266
+msgid "Limited Solution"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:12
+msgid "limited version"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.menu.php:32
+msgid "Link Color"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.menu.php:48
+msgid "Link Color (over)"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.menu.php:40
+msgid "Link Transparency"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.menu.php:57
+msgid "Link Transparency (over)"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:74
+msgid "Linkedin"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/translate.php:4
+msgid "Localization"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:109
+msgid "Mask Color"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.header.php:117
+msgid "Mask Opacity"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.menu.php:9
+#: ../tempo/templates/admin/appearance/faq/customizer.php:9
+msgid "Menu Appearance"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:55
+msgid "Menu Custom Colors"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/customizer.php:35
+msgid "Menus"
+msgstr ""
+
+#: ../tempo/lib/html/tempo.customize.class.php:30
+msgid "Missing Panel Title"
+msgstr ""
+
+#: ../tempo/lib/html/tempo.customize.class.php:65
+msgid "Missing Section Title"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:194
+msgid "Mixi"
+msgstr ""
+
+#: ../tempo/templates/breadcrumbs/archive.php:68
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../tempo/templates/breadcrumbs/archive.php:56
+#, php-format
+msgid "Monthly archives - %1$s"
+msgstr ""
+
+#: ../tempo/cfgs/theme-url.php:12
+msgid ""
+"myThem.es Marketplace provides WordPress themes with the best quality and "
+"the smallest prices."
+msgstr ""
+
+#: ../tempo/comments.php:71
+msgid "Name (Required)"
+msgstr ""
+
+#: ../tempo/templates/comments/pagination.php:5
+#: ../tempo/templates/loop/pagination-next-prev.php:6
+#: ../tempo/templates/loop/pagination.php:4
+#, php-format
+msgid "Next %1$s"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:188
+msgid "Odnoklassniki"
+msgstr ""
+
+#: ../tempo/lib/tempo.breadcrumbs.class.php:98
+msgid "One Article"
+msgstr ""
+
+#: ../tempo/lib/tempo.breadcrumbs.class.php:104
+msgid "One Result"
+msgstr ""
+
+#: ../tempo/lib/html/tempo.page.class.php:152
+msgid "Options are reset successfully !"
+msgstr ""
+
+#: ../tempo/lib/html/tempo.page.class.php:141
+msgid "Options are updated successfully !"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:9
+#: ../tempo/templates/admin/appearance/faq/customizer.php:27
+msgid "Other"
+msgstr ""
+
+#: ../tempo/templates/page/pagination.php:3
+#: ../tempo/templates/single/pagination.php:3
+msgid "Pages"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:32
+msgid "Picasa"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:158
+msgid "Pinterest"
+msgstr ""
+
+#: ../tempo/cfgs/pages/appearance/faq.php:18
+msgid ""
+"Please read this small guide and follow the instructions. This guide will "
+"help you customize the theme for your needs."
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:85
+msgid "Plugin Contact Form 7 ( styled )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:223
+msgid "Plugin Easy Google Fonts ( support )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:193
+msgid "Portfolio Blog View ( + custom page template )"
+msgstr ""
+
+#: ../tempo/comments.php:96
+msgid "Post Comment"
+msgstr ""
+
+#: ../tempo/templates/article/meta/top.php:16
+#: ../tempo/templates/article/meta/top.php:34
+#: ../tempo/templates/single/meta/top.php:18
+#: ../tempo/templates/single/meta/top.php:36
+#, php-format
+msgid "Posted by %1$s"
+msgstr ""
+
+#: ../tempo/templates/article/meta/top.php:28
+#: ../tempo/templates/single/meta/top.php:30
+#, php-format
+msgid "Posted by %1$s on %2$s"
+msgstr ""
+
+#: ../tempo/templates/article/meta/top.php:31
+#: ../tempo/templates/single/meta/top.php:33
+#, php-format
+msgid "Posted on %1$s"
+msgstr ""
+
+#: ../tempo/templates/article/meta/top.php:25
+#: ../tempo/templates/single/meta/top.php:27
+#, php-format
+msgid "posted on %1$s"
+msgstr ""
+
+#: ../tempo/lib/tempo.comments.class.php:43
+#: ../tempo/lib/tempo.comments.class.php:71
+#, php-format
+msgid "Posted on %1$s %2$s"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:255
+#: ../tempo/templates/admin/appearance/faq/premium.php:261
+msgid "Priority"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:68
+msgid "Rdio"
+msgstr ""
+
+#: ../tempo/templates/article/hentry.php:10
+#, php-format
+msgid "Read More %1$s"
+msgstr ""
+
+#: ../tempo/templates/article/title.php:15
+msgid "Read more about .."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:176
+msgid "Reddit"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:62
+msgid "Renren"
+msgstr ""
+
+#: ../tempo/lib/tempo.comments.class.php:28
+msgid "Reply"
+msgstr ""
+
+#: ../tempo/lib/tempo.scripts.class.php:175
+msgid "Reset to Default"
+msgstr ""
+
+#: ../tempo/lib/methods.php:653
+msgid "Resource not found"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:31
+msgid "Responsive layout"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:207
+msgid "Rss"
+msgstr ""
+
+#: ../tempo/cfgs/theme-url.php:41
+msgid ""
+"Sarmys is a free WordPress child Theme that extends the Tempo free WordPress "
+"theme."
+msgstr ""
+
+#: ../tempo/templates/breadcrumbs/search.php:59
+#, php-format
+msgid "Search results for \"%1$s\""
+msgstr ""
+
+#: ../tempo/lib/tempo.breadcrumbs.class.php:66
+#, php-format
+msgid "See articles from - %1$s"
+msgstr ""
+
+#: ../tempo/lib/methods.php:134 ../tempo/lib/tempo.breadcrumbs.class.php:38
+#, php-format
+msgid "See articles from category - %1$s"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:260
+msgid "Selective ( at our choice )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:169
+msgid "Shortcodes"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:175
+msgid "Shortcodes Manager"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:145
+msgid "Sidebars &amp; Custom Layouts"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.post.php:9
+#: ../tempo/templates/admin/appearance/faq/customizer.php:24
+msgid "Single Post"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/site-identity.php:9
+#: ../tempo/templates/admin/appearance/faq/customizer.php:6
+msgid "Site Identity"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/site-identity.php:22
+msgid "Site Title Color"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/site-identity.php:30
+msgid "Site Title Transparency"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/site-identity.php:38
+msgid "Site Title Transparency (over)"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:56
+msgid "Skype"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:164
+msgid "Smashing"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/translate.php:4
+#, php-format
+msgid ""
+"So, you can translate the theme in your favorite language. More details "
+"about %1$s you can find %2$s."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:9
+#: ../tempo/templates/admin/appearance/faq/customizer.php:25
+msgid "Social"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:170
+msgid "SoundCloud"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.breadcrumbs.php:30
+msgid "Space"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:122
+msgid "Stumbleupon"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:253
+#: ../tempo/templates/admin/appearance/faq/support.php:3
+msgid "Support"
+msgstr ""
+
+#: ../tempo/cfgs/pages/appearance/faq.php:71
+msgid "Support and Feadback"
+msgstr ""
+
+#: ../tempo/templates/breadcrumbs/tag.php:61
+msgid "Tag Archives"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/site-identity.php:47
+msgid "Tagline Color"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/site-identity.php:55
+msgid "Tagline Transparency"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/site-identity.php:63
+msgid "Tagline Transparency (over)"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:10
+msgid "Tempo"
+msgstr ""
+
+#: ../tempo/cfgs/theme-url.php:27
+msgid ""
+"Tempo is a clean white and free WordPress theme mainly focused on blogging "
+"websites."
+msgstr ""
+
+#: ../tempo/cfgs/pages/appearance/faq.php:66
+#: ../tempo/templates/admin/appearance/faq/premium.php:15
+msgid "Tempo Premium"
+msgstr ""
+
+#: ../tempo/cfgs/pages/appearance/faq.php:67
+msgid "Tempo Premium Solution"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/welcome.php:1
+msgid ""
+"Thank you for choosing myThem.es and use one of our WordPress Themes your "
+"choice is greatly appreciated!"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/translate.php:3
+#, php-format
+msgid ""
+"The theme is %1$s but not contain the translated files for each language."
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/support.php:2
+msgid "Theme Details"
+msgstr ""
+
+#: ../tempo/cfgs/pages/appearance/faq.php:11
+msgid "Theme FAQ"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/translate.php:6
+msgid "Theme languages details"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:20
+msgid "This Custom CSS field is used just for Internet Explorer"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:34
+msgid "This Custom CSS field is used just for Internet Explorer 10"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:27
+msgid "This Custom CSS field is used just for Internet Explorer 11"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:48
+msgid "This Custom CSS field is used just for Internet Explorer 8"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:41
+msgid "This Custom CSS field is used just for Internet Explorer 9"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:92
+msgid "This is a general Custom CSS field."
+msgstr ""
+
+#: ../tempo/comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/customizer.php:1
+msgid ""
+"This theme comes with a set of options what allow you to customize content, "
+"header, layouts, social items and others. You can see next theme options "
+"panels if you go to:"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/custom-css.php:1
+msgid ""
+"This theme comes with special option. This option allow you to use custom "
+"css. With custom css you can customize your web site to your needs."
+msgstr ""
+
+#: ../tempo/comments.php:35
+#, php-format
+msgctxt "Title before comment(s) list"
+msgid "Comment ( %1$s )"
+msgid_plural "Comments ( %1$s )"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../tempo/templates/admin/appearance/faq/custom-css.php:2
+msgid "To use it go to Admin Dashboard"
+msgstr ""
+
+#: ../tempo/cfgs/pages/appearance/faq.php:37
+msgid "Translate the Theme ( Localization )"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/translate.php:3
+msgid "Translation Ready"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:104
+msgid "Tumblr"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:50
+msgid "Twitter"
+msgstr ""
+
+#: ../tempo/searchform.php:4
+msgid "Type here..."
+msgstr ""
+
+#: ../tempo/lib/html/tempo.input.class.php:380
+#, php-format
+msgid "type icon name eg: %1$s"
+msgstr ""
+
+#: ../tempo/lib/methods.php:714
+msgid "Upgrade now to Premium &rarr;"
+msgstr ""
+
+#: ../tempo/lib/tempo.scripts.class.php:176
+#: ../tempo/lib/tempo.scripts.class.php:177
+#: ../tempo/lib/html/tempo.page.class.php:72
+#: ../tempo/templates/admin/appearance/faq/premium.php:273
+#: ../tempo/templates/admin/appearance/faq/premium.php:278
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:18
+msgid "upgrade to premium"
+msgstr ""
+
+#: ../tempo/comments.php:112
+msgid "View Comments ..."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:44
+msgid "Vimeo"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.menu.php:14
+msgid "Visible Menu"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:92
+msgid "Vkontakte"
+msgstr ""
+
+#: ../tempo/lib/methods.php:666
+msgid ""
+"We apologize but this page, post or resource does not exist or can not be "
+"found."
+msgstr ""
+
+#: ../tempo/lib/methods.php:669
+msgid ""
+"We apologize, but we couldn't find anything matching your search request. "
+"Please try to search for a different term or topic."
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/welcome.php:2
+#, php-format
+msgid ""
+"We strive to be the best in this field. Please, help us to increase the "
+"theme quality. You can reporting the bugs and giving us the suggestions: %1$s"
+msgstr ""
+
+#: ../tempo/lib/methods.php:714
+#, php-format
+msgid ""
+"We've created the product that will help your business look even better. %1$s"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.additional.php:23
+msgid "Website Content Auto Hyphens"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.others.php:60
+msgid "Website Content Copyright"
+msgstr ""
+
+#: ../tempo/comments.php:73
+msgid "Website URL"
+msgstr ""
+
+#: ../tempo/cfgs/pages/appearance/faq.php:33
+msgid "Welcome Message!"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/site-identity.php:64
+#: ../tempo/cfgs/pages/customize/tempo.menu.php:49
+#: ../tempo/cfgs/pages/customize/tempo.menu.php:58
+msgid "When the mouse is over the Menu Link."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/site-identity.php:39
+msgid "When the mouse is over the Title Link."
+msgstr ""
+
+#: ../tempo/templates/breadcrumbs/archive.php:74
+msgid "Yearly Archives"
+msgstr ""
+
+#: ../tempo/templates/breadcrumbs/archive.php:55
+#: ../tempo/templates/breadcrumbs/archive.php:65
+#, php-format
+msgid "Yearly archives - %1$s"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/premium.php:273
+#, php-format
+msgid ""
+"You can decide whether to create your site using limited version or %1$s"
+msgstr ""
+
+#: ../tempo/templates/admin/appearance/faq/custom-css.php:4
+msgid "You can use it for multiple case, just is need to add your custom css."
+msgstr ""
+
+#: ../tempo/lib/tempo.comments.class.php:53
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:152
+msgid "YouTube"
+msgstr ""
+
+#: ../tempo/cfgs/pages/customize/tempo.social.php:146
+msgid "YouTube Play"
+msgstr ""
